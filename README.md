@@ -56,7 +56,7 @@ AutoSalesTrack is a modern and comprehensive software solution for managing car 
 
 ---
 
-## 🚀 Project Objectives
+## 🚀 Project Objectives :
 
 - Develop an intuitive and responsive UI
 - Provide real-time data insights
